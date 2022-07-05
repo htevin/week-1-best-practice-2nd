@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+}
+
+.contain{
+    border: 4px solid lightgray;
+    padding: 70px 24px 56px 24px;
+    
+}
+.row{
+    width: 100%;
+    max-width: 600px;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    margin: 0% auto;
+    
+}
+
+.big-box{
+    border: 4px solid lightgray;
+    width: 45%;
+
+}
+
+.box{
+    border: 4px solid lightgray;
+    height: 50px;
+    margin-bottom: 24px;
+
+}
+
+.tiny-box{
+    border: 4px solid lightgray;
+    width: 30%;
+    height: 50px;
+}
+
+.box-wrapper2{
+    display: flex;
+    justify-content: space-around;
+ 
+}
+
+.box-wrapper{
+width: 45%;
+margin-top: 10px;
+}
+
+
+
+
+
+
